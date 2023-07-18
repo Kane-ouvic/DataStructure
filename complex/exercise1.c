@@ -5,7 +5,7 @@ int iterativeF(int n);
 int recursiveF(int n);
 
 int main(void){
-    printf("test");
+    printf("test\n");
     int n;
     scanf("%d", &n);
     int a[n];
